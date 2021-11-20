@@ -1,0 +1,45 @@
+.inp1{
+   width: 750px;
+   border-radius: 15px;
+   border: 1px solid #FF6A00 !important ;
+   
+}
+#FF6A00
+.btn1{
+    background-color: #FF6A00;
+}
+.cart{
+    font-size: 1em;
+}
+.li1{
+
+    width: 60%;
+}
+.nav1 .li1 ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.arrivals{
+    
+    border-radius: 10px;
+    background-color: rgb(241, 229, 229);
+}
+.new{
+    background-color: rgb(247, 241, 241);
+}
+.aero{
+     background-image: url(./images/img12.png);
+     width: 300px;
+     height: 350px;
+}
+.aero1{
+    background-image: url(./images/img14.png);
+    width: 300px;
+    height: 350px;
+}
+.aero2{
+    background-image: url(./images/img15.jpg);
+    width: 300px;
+    height: 350px;
+}
